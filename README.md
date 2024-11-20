@@ -22,7 +22,7 @@
        
 2) Веб-приложения/сайты
    Например:
-   - <a href='https://github.com/gostok/bt_web'>Бьюсь Веб</a>
+   - <a href='https://github.com/gostok/bt_web'>Бьюсь Веб</a> <br>
      *это веб приложение еще на стадии разработки.
      
      Стек:
