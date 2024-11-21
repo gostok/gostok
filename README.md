@@ -13,6 +13,7 @@
 
 1) ТГ-боты:
    <br>
+   <br>
    Например:
    - <a href='https://t.me/bjus_bot'>Бьюсь Бот</a>
    
@@ -22,6 +23,7 @@
      - SQLite / PostgreSQL
        
 2) Веб-приложения/сайты
+   <br>
    <br>
    Например:
    - <a href='https://github.com/gostok/bt_web'>Бьюсь Веб</a> <br>
