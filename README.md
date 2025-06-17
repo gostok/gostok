@@ -61,7 +61,7 @@ STOP!<br>
      - yookassa
 
        <br>
-   <br>
+   
    
    - <a href='https://github.com/gostok/bt_web'>Бьюсь Веб</a> <br>
      *это веб приложение ушло в заморозку.
