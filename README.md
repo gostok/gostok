@@ -50,7 +50,7 @@ STOP!<br>
    <br>
    Например:
    - <a href="https://github.com/gostok/parm_and_jam_web">Parm & Jam</a> <br>
-      * на стадии разработки.
+     *на стадии разработки.
 
       Стек:
      - Python 3
