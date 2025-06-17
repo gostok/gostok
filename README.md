@@ -44,13 +44,27 @@ STOP!<br>
      - Python 3
      - Aiogram 3
      - SQLite / PostgreSQL
-       
+
 2) Веб-приложения/сайты:
    <br>
    <br>
    Например:
+   - <a href="https://github.com/gostok/parm_and_jam_web">Parm & Jam</a> <br>
+      * на стадии разработки.
+
+      Стек:
+     - Python 3
+     - Django
+     - HTML CSS
+     - PostgreSQL
+     - Bootstrap
+     - yookassa
+
+       <br>
+   <br>
+   
    - <a href='https://github.com/gostok/bt_web'>Бьюсь Веб</a> <br>
-     *это веб приложение еще на стадии разработки.
+     *это веб приложение ушло в заморозку.
      
      Стек:
      - Python 3
@@ -59,7 +73,7 @@ STOP!<br>
      - PostgreSQL
      - Bootstrap
        
-3) Игры на Godot Engine. Язык GDScript.
+4) Игры на Godot Engine. Язык GDScript.
 
 Для всех заказанных проектов делаю сам развертывание на сервера (в основном они на ОС Ubuntu, то есть использую linux).
 
