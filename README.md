@@ -28,6 +28,7 @@ STOP!<br>
 - PostgeSQL, SQLite3
 - Docker, Linux
 - GDScript, C#
+- HTML/CSS
 
 Я так же занимаюсь своими проектами, например <a href="https://github.com/gostok/GDGY-1.0-">GDGY</a> - компьютерная 2D Pixel игра, клон оригинальной Gravity Defied, под свой стиль - retrowave.<br>
 В этом проекте я и кодер, и музыкант, и дизайнлевел и т.д. 
@@ -56,6 +57,7 @@ STOP!<br>
      - Python 3
      - Django
      - HTML CSS
+     - JS
      - PostgreSQL
      - Bootstrap
      - yookassa
